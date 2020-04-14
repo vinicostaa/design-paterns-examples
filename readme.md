@@ -1,6 +1,6 @@
 # Design Patterns
 
-Neste repositório temos um exemplo de utilização de cada um dos Paterns abaixo.
+Neste repositório criei um exemplo de uso para cada um dos Paterns abaixo.
 
 ## Behavioral / Comportamental
 
